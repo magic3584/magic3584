@@ -3,7 +3,7 @@
 
 🙋‍♂️ Hi, I'm Lugick Wang, an iOS developer in Beijing, China.
 
-🐶 I like music and games, and I'm learning 🏊‍♂️
+🐶 I like music and games, and I'm learning to 🏊‍♂️
 
 👨‍💻 Learning algorithms
 
